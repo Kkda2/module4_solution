@@ -16,3 +16,5 @@
 
   // STEP 9: Expose the 'byeSpeaker' object to the global scope. 
   window.byeSpeaker = byeSpeaker;
+
+})(window);
